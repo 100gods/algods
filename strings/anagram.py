@@ -1,6 +1,6 @@
 def check_anagram(str_one : str , str_two : str) -> bool:
     '''
-    Check if two string are anagram
+    Check if two strings are anagram
     :param str_one:
     :param str_two:
     :return:
